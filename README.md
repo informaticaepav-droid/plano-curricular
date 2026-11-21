@@ -231,5 +231,5 @@ Antes de entregar, a *skill* percorre uma lista de controlo de **18 pontos**, qu
 
 ## 15. Autor e licença
 
-- **Autor / contacto:** *[a preencher pelo autor]*
-- **Licença:** *[a definir pelo autor, por exemplo uma licença aberta para uso educativo]*
+- **Autor / contacto:** António Baptista / abaptista@zonmail.pt
+- **Licença:** MIT License
